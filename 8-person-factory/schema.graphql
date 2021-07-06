@@ -1,0 +1,9 @@
+type NewPerson @entity {
+  id: ID!
+  personAddress: Bytes! # address
+}
+
+type PersonDetail @entity {
+  id: ID!
+  name: String
+}

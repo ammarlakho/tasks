@@ -1,0 +1,8 @@
+.deps/
+**/artifacts/
+**/node_modules/
+**/build/
+**/cache/
+**/generated/
+.vscode/
+**/hardhat.config.js
